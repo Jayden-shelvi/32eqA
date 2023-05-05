@@ -1,0 +1,58 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.div_pan
+{
+    float: left ; 
+}
+
+#pan
+{
+    font-size: 20px;
+    margin: 15px ;
+    font-family: cursive;
+
+}
+
+.div_pot
+{
+    float: right ; 
+}
+
+
+#pot
+{
+    font-size: 20px;
+    margin: 15px ;
+    font-family: cursive;
+
+}
+
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+}
